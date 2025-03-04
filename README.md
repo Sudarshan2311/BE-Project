@@ -5,7 +5,6 @@ This project focuses on improving sentiment analysis and toxic comment classific
 
 🔑 Key Features
 Sentiment Classification (Positive, Negative, Neutral)
-Toxic Comment Detection (Toxic, Profanity, Hate Speech, Insult, Threat, Harassment, Bullying, Discrimination)
 Multi-label Classification using Classifier Chains
 BERT Embeddings for Text Representation
 Ensemble Models: Logistic Regression, Random Forest
