@@ -6,8 +6,9 @@ This project focuses on improving sentiment analysis and toxic comment classific
 🔑 Key Features
 Sentiment Classification (Positive, Negative, Neutral)
 Multi-label Classification using Classifier Chains
-BERT Embeddings for Text Representation
-Ensemble Models: Logistic Regression, Random Forest
+Fasttext Embeddings for Text Representation
+Ensemble Models: Logistic Regression, XGBoost
+
 🛠️ Tech Stack
 Python
 Scikit-learn
@@ -15,6 +16,7 @@ TensorFlow
 BERT
 TF-IDF
 Jupyter Notebook
+
 📊 Results
 Model Performance Evaluation
 Hyperparameter Tuning
